@@ -1,6 +1,6 @@
 export default function updateUniqueItems(groceries) {
   if (!(groceries instanceof Map)) {
-    return Error('Cannot process');
+    throw Error('Cannot process');
   }
   groceries.forEach((value, key, map) => {
     if (value === 1) {
