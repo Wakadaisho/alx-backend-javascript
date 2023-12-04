@@ -9,5 +9,8 @@ Introduction to the basics of modern (ES6) JavaScript
 ### 0x01. ES6 Promises
 Learn how to use Promises and asynchronous tasks in ES6 JS
 
-### 0x01. ES6 classes
+### 0x03. ES6 classes
 OOP in mordern JavaScript
+
+### 0x03. ES6 data manipulation
+Manage data structures in JS

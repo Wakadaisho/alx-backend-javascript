@@ -1,4 +1,4 @@
-# 0x01. ES6 Promises
+# 0x02. ES6 Promises
 
 - Promises (how, why, and what)
 - How to use the then, resolve, catch methods
