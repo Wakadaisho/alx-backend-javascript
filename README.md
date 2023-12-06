@@ -14,3 +14,6 @@ OOP in mordern JavaScript
 
 ### 0x03. ES6 data manipulation
 Manage data structures in JS
+
+# 0x04. Typescript
+Enforcing type safety with Typescript
