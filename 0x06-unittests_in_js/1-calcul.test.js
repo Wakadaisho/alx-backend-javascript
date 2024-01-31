@@ -89,4 +89,7 @@ describe('calculateNumber DIVIDE', () => {
   it('Returns 0.5 when dividing -1.51 and -3.9', () => {
     assert.strictEqual(calculateNumber('DIVIDE', -1.51, -3.9), 0.5);
   });
+  it('Returns "Error" when dividing by 0', () => {
+    assert.strictEqual(calculateNumber('DIVIDE', 2, 0), "Error");
+  });
 });
